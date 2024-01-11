@@ -4,6 +4,7 @@
 // @version      1.0.0
 // @description  Automatically hides comments on RoyalRoad
 // @author       elbas
+// @license      GNU GPLv3
 // @match        http://royalroad.com/*
 // @match        https://royalroad.com/*
 // @match        http://*.royalroad.com/*
